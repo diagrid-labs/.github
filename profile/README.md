@@ -1,6 +1,6 @@
 ## 👋 Welcome to Diagrid Labs
 
-This is the place where you can find sample code and demo apps created by the Diagrid developer relations team.
+This is the place where you can find sample code and demo apps created by Diagrid.
 
 You can also find us at:
 
