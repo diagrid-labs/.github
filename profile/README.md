@@ -1,6 +1,6 @@
 # 👋 Welcome to Diagrid Labs
 
-This is the place where you can find sample code and demo apps created by Diagrid.
+Hands-on workshops, sample applications and demos all created by Diagrid.
 
 ## Learn Dapr
 
