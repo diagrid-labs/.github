@@ -4,7 +4,7 @@ Hands-on workshops, sample applications and demos all created by Diagrid.
 
 ## Learn Dapr
 
-[Dapr](https://dapr.io/) provides integrated APIs for communication, state, and workflow. Dapr leverages industry best practices for security, resiliency, and observability, so you can focus on your code.
+[Dapr](https://dapr.io/) is a set of APIs for communication, state, and workflow for building distributed systems. Dapr leverages industry best practices for security, resiliency, and observability, so you can focus on business logic.
 
 - [Learn Dapr](https://github.com/diagrid-labs/learn-dapr) - A collection of resources to learn Dapr.
 - [Dapr Workshop](https://github.com/diagrid-labs/dapr-workshop) - A self-paced Dapr workshop available in .NET and Python.
