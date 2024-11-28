@@ -23,7 +23,7 @@ Hands-on workshops, sample applications and demos all created by Diagrid.
 
 ## Learn Conductor
 
-[Diagrid Conductor](https://www.diagrid.io/conductor) automates the operational management of Dapr on Kubernetes, enhancing observability, improving reliability, and enforcing security best practices. Conductor is a SaaS solution that connects securely to any Kubernetes cluster, automates routine activities like upgrades, and improves uptime of your Dapr applications with monitoring, alerting and 24/7 support. 
+[Diagrid Conductor](https://www.diagrid.io/conductor) automates the operational management of Dapr on Kubernetes, enhancing observability, improving reliability, and enforcing security best practices. Conductor is a SaaS solution that connects securely to any Kubernetes cluster with plans including Dapr OSS Support. 
 
 - [Conductor Docs](https://docs.diagrid.io/conductor/) - Conductor documentation on the docs.diagrid.io site.
 - [Conductor Pizza Store](https://github.com/diagrid-labs/conductor-pizza-store) - This repository contains an example for a distributed Pizza Store application using Kubernetes, Dapr, Spring Boot and Testcontainers.
