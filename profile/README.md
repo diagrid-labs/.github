@@ -7,7 +7,7 @@ Hands-on workshops, sample applications and demos all created by Diagrid.
 [Dapr](https://dapr.io/) is a set of APIs for communication, state, and workflow for building distributed systems. Dapr leverages industry best practices for security, resiliency, and observability, so you can focus on business logic.
 
 - [Learn Dapr](https://github.com/diagrid-labs/learn-dapr) - Start here if you're brand new to Dapr! A curated collection of resources to learn about OSS Dapr.
-- [Dapr Workshop](https://github.com/diagrid-labs/dapr-workshop) - A self-paced Dapr workshop available in .NET and Python.
+- [Dapr Workshop](https://github.com/diagrid-labs/dapr-workshop) - A self-paced hands-on Dapr workshop available in .NET and Python. No previous Dapr experience required.
 - [Dapr Workflow Demos](https://github.com/diagrid-labs/dapr-workflow-demos) - Demos of the workflow patterns built with Dapr Workflow in .NET.
 - [Dapr Actor Demos](https://github.com/diagrid-labs/dapr-actor-demos) - Demos of the Dapr Actor Model in .NET.
 
