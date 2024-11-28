@@ -19,7 +19,7 @@ Hands-on workshops, sample applications and demos all created by Diagrid.
 - [Catalyst Order Workflow](https://github.com/diagrid-labs/catalyst-order-workflow) - A demo that shows the capabilities provided by all five Catalyst APIs through a Python-based order processing workflow.
 - [Catalyst Workflow Saga](https://github.com/diagrid-labs/catalyst-workflow-saga) - A Python demo app that shows you how to implement the AWS reference architecture for Saga orchestration using Catalyst Workflow.
 - [Catalyst Reference Apps](https://github.com/diagrid-labs/catalyst-reference-apps) - Sample apps in various languages leveraging the Catalyst APIs for common reference architectures, deployable on AWS.
-- [Catalyst Place](https://github.com/diagrid-labs/catalyst-place) - Place is a small Go application powered by Diagrid Catalyst that replicates some functionality from the famous r/place event.
+- [Catalyst Place](https://github.com/diagrid-labs/catalyst-place) - A sample Go app powered by Diagrid Catalyst that replicates some functionality from the famous r/place event.
 
 ## Learn Conductor
 
