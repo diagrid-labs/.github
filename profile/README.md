@@ -6,11 +6,21 @@ Hands-on workshops, sample applications and demos all created by Diagrid.
 
 [Dapr](https://dapr.io/) is a set of APIs for communication, state, and workflow for building distributed systems. Dapr leverages industry best practices for security, resiliency, and observability, so you can focus on business logic.
 
-- [Learn Dapr](https://github.com/diagrid-labs/learn-dapr) - Start here if you're brand new to Dapr! A curated collection of resources to learn about OSS Dapr.
 - [Dapr University](https://www.diagrid.io/dapr-university) - Learn Dapr by doing hands-on courses in an online sandbox environment, no local installation required.
+- [Learn Dapr](https://github.com/diagrid-labs/learn-dapr) - Start here if you're brand new to Dapr! A curated collection of resources to learn about OSS Dapr.
 - [Dapr Workshop](https://github.com/diagrid-labs/dapr-workshop) - A self-paced hands-on Dapr workshop available in .NET and Python. No previous Dapr experience required.
-- [Dapr Workflow Demos](https://github.com/diagrid-labs/dapr-workflow-demos) - Sample .NET apps showcasing workflow architecture patterns built with the Dapr Workflow API.
 - [Dapr Actor Demos](https://github.com/diagrid-labs/dapr-actor-demos) - Demos of the Dapr Actor Model in .NET.
+
+## Learn Dapr Workflow
+
+- [Dapr University](https://www.diagrid.io/dapr-university) - Learn Dapr by doing hands-on courses in an online sandbox environment, no local installation required.
+- [Dapr docs - Workflow](https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-overview/) - Read the Workflow chapter in the Dapr docs.
+- [Dapr Workflow Demos](https://github.com/diagrid-labs/dapr-workflow-demos) - Sample .NET apps showcasing workflow architecture patterns built with the Dapr Workflow API.
+
+## Learn Dapr Agents
+
+- [Dapr Agents Docs](https://dapr.github.io/dapr-agents/) - Read the Dapr Agents docs.
+- [Dapr Agents Quickstarts](https://dapr.github.io/dapr-agents/home/quickstarts/) - Run the hands-on Dapr Agents Quickstarts.
 
 ## Learn Catalyst
 
