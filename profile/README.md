@@ -2,20 +2,20 @@
 
 Hands-on workshops, sample applications and demos all created by Diagrid.
 
-## Learn Catalyst
+## Learn Diagrid
 
-[Diagrid Catalyst](https://www.diagrid.io/catalyst) keeps agents running and proves every action. Automatic recovery for agents, MCP servers, and workflows - with cryptographic proof of execution, lineage, and identity.
+[Diagrid](https://www.diagrid.io/catalyst) keeps agents running and proves every action. Automatic recovery for agents, MCP servers, and workflows - with cryptographic proof of execution, lineage, and identity.
 
-- [Dapr University: Running Dapr applications with Diagrid Catalyst](https://www.diagrid.io/university/catalyst-101) - Learn how to run Dapr applications with Diagrid Catalyst in this free, self-paced, interactive course.
-- [Catalyst Docs](https://docs.diagrid.io/catalyst/) - Catalyst documentation on the docs.diagrid.io site.
+- [Dapr University: Running Dapr applications with Diagrid](https://www.diagrid.io/university/catalyst-101) - Learn how to run Dapr applications with Diagrid in this free, self-paced, interactive course.
+- [Diagrid docs](https://docs.diagrid.io/operate/) - Diagrid documentation on the docs.diagrid.io site.
 
-Top diagrid-labs repos for Catalyst:
+Top diagrid-labs repos for Diagrid:
 
-- [secure-mcp-demo](https://github.com/diagrid-labs/secure-mcp-demo) - Demonstrates per-operation MCP access control with Diagrid Catalyst ACLs and layered Keycloak OIDC enforcement for destructive operations.
-- [catalyst-order-workflow-dotnet](https://github.com/diagrid-labs/catalyst-order-workflow-dotnet) - E-commerce Aspire .NET demo orchestrating order processing with Dapr Workflow, pub/sub, service invocation, and state on Catalyst.
-- [catalyst-reference-apps](https://github.com/diagrid-labs/catalyst-reference-apps) - Deployable cloud-based reference applications using Diagrid Catalyst.
-- [catalyst-mcp-access](https://github.com/diagrid-labs/catalyst-mcp-access) - A sample repository that shows how to use Diagrid Catalyst to govern access to MCP servers.
-- [catalyst-aspire](https://github.com/diagrid-labs/catalyst-aspire) - Diagrid Catalyst Aspire integration.
+- [secure-mcp-demo](https://github.com/diagrid-labs/secure-mcp-demo) - Demonstrates per-operation MCP access control with Diagrid ACLs and layered Keycloak OIDC enforcement for destructive operations.
+- [catalyst-order-workflow-dotnet](https://github.com/diagrid-labs/catalyst-order-workflow-dotnet) - E-commerce Aspire .NET demo orchestrating order processing with Dapr Workflow, pub/sub, service invocation, and state on Diagrid.
+- [catalyst-reference-apps](https://github.com/diagrid-labs/catalyst-reference-apps) - Deployable cloud-based reference applications using Diagrid.
+- [catalyst-mcp-access](https://github.com/diagrid-labs/catalyst-mcp-access) - A sample repository that shows how to use Diagrid to govern access to MCP servers.
+- [catalyst-aspire](https://github.com/diagrid-labs/catalyst-aspire) - Diagrid Aspire integration.
 
 ## Learn Dapr Workflow
 
@@ -40,7 +40,7 @@ Top diagrid-labs repos for Dapr Agents:
 
 - [agent-durability-demo](https://github.com/diagrid-labs/agent-durability-demo) - Demonstrates Dapr Agents durability: 100 agents drain 10 accounts to $200 each while chaos is injected, proving exactly-once credits.
 - [documentation-agent](https://github.com/diagrid-labs/documentation-agent) - Durable Dapr Agents agent that watches dapr-agents PRs, generates updated docs via the GitHub MCP server, and opens PRs against dapr/docs.
-- [dapr-agents-catalyst-samples](https://github.com/diagrid-labs/dapr-agents-catalyst-samples) - Demonstrates how to create durable agents with Dapr Agents and run them with Diagrid Catalyst.
+- [dapr-agents-catalyst-samples](https://github.com/diagrid-labs/dapr-agents-catalyst-samples) - Demonstrates how to create durable agents with Dapr Agents and run them with Diagrid.
 
 ## Learn Dapr
 
