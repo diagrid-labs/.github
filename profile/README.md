@@ -7,7 +7,7 @@ Hands-on workshops, sample applications and demos all created by Diagrid.
 [Diagrid](https://www.diagrid.io/catalyst) keeps agents running and proves every action. Automatic recovery for agents, MCP servers, and workflows - with cryptographic proof of execution, lineage, and identity.
 
 - [Dapr University: Running Dapr applications with Diagrid](https://www.diagrid.io/university/catalyst-101) - Learn how to run Dapr applications with Diagrid in this free, self-paced, interactive course.
-- [Diagrid docs](https://docs.diagrid.io/operate/) - Diagrid documentation on the docs.diagrid.io site.
+- [Diagrid docs](https://docs.diagrid.io/concepts/what-is-diagrid/) - Diagrid documentation on the docs.diagrid.io site.
 
 Top diagrid-labs repos for Diagrid:
 
