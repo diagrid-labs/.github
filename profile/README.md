@@ -12,10 +12,10 @@ Hands-on workshops, sample applications and demos all created by Diagrid.
 Top diagrid-labs repos for Diagrid:
 
 - [secure-mcp-demo](https://github.com/diagrid-labs/secure-mcp-demo) - Demonstrates per-operation MCP access control with Diagrid ACLs and layered Keycloak OIDC enforcement for destructive operations.
-- [catalyst-order-workflow-dotnet](https://github.com/diagrid-labs/catalyst-order-workflow-dotnet) - E-commerce Aspire .NET demo orchestrating order processing with Dapr Workflow, pub/sub, service invocation, and state on Diagrid.
-- [catalyst-reference-apps](https://github.com/diagrid-labs/catalyst-reference-apps) - Deployable cloud-based reference applications using Diagrid.
-- [catalyst-mcp-access](https://github.com/diagrid-labs/catalyst-mcp-access) - A sample repository that shows how to use Diagrid to govern access to MCP servers.
-- [catalyst-aspire](https://github.com/diagrid-labs/catalyst-aspire) - Diagrid Aspire integration.
+- [diagrid-order-workflow-dotnet](https://github.com/diagrid-labs/diagrid-order-workflow-dotnet) - E-commerce Aspire .NET demo orchestrating order processing with Dapr Workflow, pub/sub, service invocation, and state on Diagrid.
+- [diagrid-reference-apps](https://github.com/diagrid-labs/diagrid-reference-apps) - Deployable cloud-based reference applications using Diagrid.
+- [diagrid-mcp-access](https://github.com/diagrid-labs/diagrid-mcp-access) - A sample repository that shows how to use Diagrid to govern access to MCP servers.
+- [diagrid-aspire](https://github.com/diagrid-labs/diagrid-aspire) - Diagrid Aspire integration.
 
 ## Learn Dapr Workflow
 
@@ -40,7 +40,7 @@ Top diagrid-labs repos for Dapr Agents:
 
 - [agent-durability-demo](https://github.com/diagrid-labs/agent-durability-demo) - Demonstrates Dapr Agents durability: 100 agents drain 10 accounts to $200 each while chaos is injected, proving exactly-once credits.
 - [documentation-agent](https://github.com/diagrid-labs/documentation-agent) - Durable Dapr Agents agent that watches dapr-agents PRs, generates updated docs via the GitHub MCP server, and opens PRs against dapr/docs.
-- [dapr-agents-catalyst-samples](https://github.com/diagrid-labs/dapr-agents-catalyst-samples) - Demonstrates how to create durable agents with Dapr Agents and run them with Diagrid.
+- [dapr-agents-diagrid-samples](https://github.com/diagrid-labs/dapr-agents-diagrid-samples) - Demonstrates how to create durable agents with Dapr Agents and run them with Diagrid.
 
 ## Learn Dapr
 
